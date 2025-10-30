@@ -91,7 +91,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Abhishek Rajput - [GitHub](https://github.com/HimanshiEnigma)
+Himanshi Tripathi - [GitHub](https://github.com/HimanshiEnigma)
 
 Project Link: https://github.com/HimanshiEnigma/job-portal
 =======
